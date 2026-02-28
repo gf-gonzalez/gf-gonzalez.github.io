@@ -52,16 +52,27 @@ Sergio Rincón, **Gabriel González**, Mario A. Macías, Pablo Arbeláez
 </div>
 
 # 🎖 Honors and Awards
-- *2019.01*, **Quiero Estudiar Escala Scholarship:** Recipient of 95% tuition coverage awarded for academic excellence.
-- *2025.10*, **RISE–MICCAI Mentorship Program:** Selected mentee in a one-year program supporting early career researchers from low/middle income countries; mentored in collaboration with the University of Birmingham, UK.
+- *2019.01*, *Quiero Estudiar Escala Scholarship*, Recipient of 95% tuition coverage awarded for academic excellence.
+- *2025.10*, *RISE–MICCAI Mentorship Program*, Selected mentee in a one-year program supporting early career researchers from low/middle income countries; mentored in collaboration with the University of Birmingham, UK.
 
 # 📖 Education
 - *2024.08 - 2026.04 (now)*, Universidad de los Andes, M.Sc. Biomedical Engineering.
 - *2021.01 - 2024.04*, Universidad de los Andes, B.Sc. Biomedical Engineering.
 - *2019.01 - 2024.10*, Universidad de los Andes, B.Sc. Electronics Engineering. 
 
+# 🎓 Theses
+- *M.Sc. Thesis,* Universidad de los Andes  
+  * Towards symmetric crystal structure prediction with flow matching equivariant transformers  
+  Advisor: [Pablo Arbeláez](https://scholar.google.com/citations?user=k0nZO90AAAAJ&hl=es) 
+  [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=-5kDAz4AAAAJ&citation_for_view=-5kDAz4AAAAJ:9yKSN-GCB0IC)
+
+- *B.Sc. Thesis*, Universidad de los Andes 
+  * Robust-NeuroBiometrics: sistema robusto de identificación biométrica basado en señales de electroencefalograma (EEG)  
+  Advisors: [Pablo Arbeláez](https://scholar.google.com/citations?user=k0nZO90AAAAJ&hl=es) [Fernando Lozano](https://academia.uniandes.edu.co/AcademyCv/flozano)  
+  [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=-5kDAz4AAAAJ&citation_for_view=-5kDAz4AAAAJ:u5HHmVD_uO8C)
+
 # 🔬 Research Experience
-- *External Researcher*, University of Birmingham
-  * Research at the Computer Science Department, advised by [Prof. Samuel Montero-Hernandez](https://scholar.google.com/citations?user=dgw0sREAAAAJ&hl=es), focusing on multimodal brain decoding for fNIRS.
 - *Research Assistant*, Universidad de los Andes
   * Research at the Biomedical Computer Vision Group at CinfonIA, advised by [Prof. Pablo Arbeláez](https://scholar.google.com/citations?user=k0nZO90AAAAJ&hl=es), focusing on multimodal and generative deep learning for drug discovery and materials design.
+- *External Researcher*, University of Birmingham
+  * Research at the Computer Science Department, advised by [Prof. Samuel Montero-Hernandez](https://scholar.google.com/citations?user=dgw0sREAAAAJ&hl=es), focusing on multimodal brain decoding for fNIRS.
