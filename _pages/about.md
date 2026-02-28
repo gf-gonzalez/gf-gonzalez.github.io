@@ -28,7 +28,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Scientific Data 2025</div><img src='images/architectureFigureEscape.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/architectureFigureEscape.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Standardized Benchmark for Multilabel Antimicrobial Peptide Classification](https://arxiv.org/pdf/2511.04814)
@@ -39,6 +39,8 @@ Sebastian Ojeda, Rafael Velasquez, Nicolás Aparicio, Juanita Puentes, Paula Cá
 [**Code**](https://github.com/BCV-Uniandes/ESCAPE)
 [**Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=-5kDAz4AAAAJ&citation_for_view=-5kDAz4AAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='-5kDAz4AAAAJ:d1gkVwhDpl0C'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Scientific Data 2025</div><img src='images/simpod.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
