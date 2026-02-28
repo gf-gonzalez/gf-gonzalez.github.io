@@ -17,15 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a Machine Learning researcher and M.Sc. student in Biomedical Engineering at Universidad de los Andes (CinfonIA), advised by Prof. Pablo Arbeláez. My work focuses on multimodal and generative deep learning for scientific applications, with current projects on reproducible models and benchmarks for AI in materials science, drug discovery, and neuroimaging. I’ve published in venues such as NeurIPS 2025 and *Nature Scientific Data*, and I collaborate with interdisciplinary teams as a Research Assistant in the Biomedical Computer Vision Group. :contentReference[oaicite:0]{index=0}
+I'm a Machine Learning researcher and M.Sc. student in Biomedical Engineering at Universidad de los Andes (CinfonIA), advised by Prof. Pablo Arbeláez. My work focuses on multimodal and generative deep learning for scientific applications, with current projects on reproducible models and benchmarks for AI in materials science, drug discovery, and neuroimaging. I’ve published in venues such as NeurIPS 2025 and *Nature Scientific Data*, and I collaborate with interdisciplinary teams as a Research Assistant in the Biomedical Computer Vision Group. My research interest includes generative models and multimodal learning in science and healthcare applications.
 
-My research interest includes generative models and multimodal learning in science and healthcare applications. 
-
-<a href="https://scholar.google.com/citations?user=-5kDAz4AAAAJ&hl=es">
-  <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
-</a>.
-
-# 📝 Publications 
+# 📝 Publication
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/architectureFigureEscape.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -59,12 +53,11 @@ Sergio Rincón, **Gabriel González**, Mario A. Macías, Pablo Arbeláez
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2019.01*, **Quiero Estudiar Escala Scholarship:** Recipient of 95% tuition coverage awarded for academic excellence.
-- *2025.10*, **RISE–MICCAI Mentorship Program:** Selected mentee in a one-year program supporting early career researchers from low/middle income countries; mentored in collaboration with the University of Birmingham, UK.
-
-# 📖 Educations
+# 📖 Education
 - *2024.08 - 2026.04 (now)*, Universidad de los Andes, M.Sc. Biomedical Engineering.
 - *2021.01 - 2024.04*, Universidad de los Andes, B.Sc. Biomedical Engineering.
 - *2019.01 - 2024.10*, Universidad de los Andes, B.Sc. Electronics Engineering. 
 
+# 🎖 Honors and Awards
+- *2019.01*, **Quiero Estudiar Escala Scholarship:** Recipient of 95% tuition coverage awarded for academic excellence.
+- *2025.10*, **RISE–MICCAI Mentorship Program:** Selected mentee in a one-year program supporting early career researchers from low/middle income countries; mentored in collaboration with the University of Birmingham, UK.
