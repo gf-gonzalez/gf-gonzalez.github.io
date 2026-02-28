@@ -17,14 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I'm a Machine Learning researcher and M.Sc. student in Biomedical Engineering at Universidad de los Andes (CinfonIA), advised by Prof. Pablo Arbeláez. My work focuses on multimodal and generative deep learning for scientific applications, with current projects on reproducible models and benchmarks for AI in materials science, drug discovery, and neuroimaging. I’ve published in venues such as NeurIPS 2025 and *Nature Scientific Data*, and I collaborate with interdisciplinary teams as a Research Assistant in the Biomedical Computer Vision Group. :contentReference[oaicite:0]{index=0}
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes generative models and multimodal learning in science and healthcare applications. 
 
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<a href="https://scholar.google.com/citations?user=-5kDAz4AAAAJ&hl=es">
+  <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
+</a>.
 
 # 📝 Publications 
 
@@ -38,7 +37,8 @@ Sebastian Ojeda, Rafael Velasquez, Nicolás Aparicio, Juanita Puentes, Paula Cá
 [**Dataset**](https://doi.org/10.7910/DVN/C69MCD)
 [**Code**](https://github.com/BCV-Uniandes/ESCAPE)
 [**Google Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=-5kDAz4AAAAJ&citation_for_view=-5kDAz4AAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='-5kDAz4AAAAJ:d1gkVwhDpl0C'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Built a **comprehensive benchmark** for **multilabel antimicrobial peptide (AMP) classification**, under a unified set of antimicrobial categories.
+- Implemented a new **SOTA baseline** for AMP discovery employing transformers modules for sequence and 3D structure processing.
 </div>
 </div>
 
@@ -50,25 +50,21 @@ Sebastian Ojeda, Rafael Velasquez, Nicolás Aparicio, Juanita Puentes, Paula Cá
 Sergio Rincón, **Gabriel González**, Mario A. Macías, Pablo Arbeláez
 
 [**Dataset**](https://www.scidb.cn/en/detail?dataSetId=91574142078b45c79d532d97b294ed44)
-[**Tutorial**](https://github.com/BCV-Uniandes/SIMPOD)
+[**Code**](https://github.com/BCV-Uniandes/SIMPOD)
 [**Google Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=-5kDAz4AAAAJ&citation_for_view=-5kDAz4AAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='-5kDAz4AAAAJ:u-x6o8ySG0sC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Curated **SIMPOD** dataset of simulated powder XRD patterns from **467,861** crystal structures (COD), with 1D diffractograms and radial 2D representations.  
+- Created an **open source pipeline** for benchmarking Machine Learning and Computer Vision models for Space Group Prediction.
 </div>
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2019.01* **Quiero Estudiar Escala Scholarship (Universidad de los Andes)** — Recipient of 95% tuition coverage awarded for academic excellence.
-- *2025.10* **RISE–MICCAI Mentorship Program (MICCAI Society)** — Selected mentee in a one-year program supporting early career researchers from low/middle income countries; mentored in collaboration with the University of Birmingham, UK.
+- *2019.01*, **Quiero Estudiar Escala Scholarship:** Recipient of 95% tuition coverage awarded for academic excellence.
+- *2025.10*, **RISE–MICCAI Mentorship Program:** Selected mentee in a one-year program supporting early career researchers from low/middle income countries; mentored in collaboration with the University of Birmingham, UK.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.08 - 2026.04 (now)*, Universidad de los Andes, M.Sc. Biomedical Engineering.
+- *2021.01 - 2024.04*, Universidad de los Andes, B.Sc. Biomedical Engineering.
+- *2019.01 - 2024.10*, Universidad de los Andes, B.Sc. Electronics Engineering. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
