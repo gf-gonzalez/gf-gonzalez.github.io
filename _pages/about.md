@@ -37,7 +37,7 @@ Sebastian Ojeda, Rafael Velasquez, Nicolás Aparicio, Juanita Puentes, Paula Cá
 
 [**Dataset**](https://doi.org/10.7910/DVN/C69MCD)
 [**Code**](https://github.com/BCV-Uniandes/ESCAPE)
-[**Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=-5kDAz4AAAAJ&citation_for_view=-5kDAz4AAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='-5kDAz4AAAAJ:d1gkVwhDpl0C'></span></strong>
+[**Google Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=-5kDAz4AAAAJ&citation_for_view=-5kDAz4AAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='-5kDAz4AAAAJ:d1gkVwhDpl0C'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
@@ -51,7 +51,7 @@ Sergio Rincón, **Gabriel González**, Mario A. Macías, Pablo Arbeláez
 
 [**Dataset**](https://www.scidb.cn/en/detail?dataSetId=91574142078b45c79d532d97b294ed44)
 [**Tutorial**](https://github.com/BCV-Uniandes/SIMPOD)
-[**Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=-5kDAz4AAAAJ&citation_for_view=-5kDAz4AAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='-5kDAz4AAAAJ:u-x6o8ySG0sC'></span></strong>
+[**Google Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=-5kDAz4AAAAJ&citation_for_view=-5kDAz4AAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='-5kDAz4AAAAJ:u-x6o8ySG0sC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
@@ -59,8 +59,8 @@ Sergio Rincón, **Gabriel González**, Mario A. Macías, Pablo Arbeláez
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.01* **Quiero Estudiar Escala Scholarship (Universidad de los Andes)** — Recipient of 95% tuition coverage awarded for academic excellence.
+- *2025.10* **RISE–MICCAI Mentorship Program (MICCAI Society)** — Selected mentee in a one-year program supporting early career researchers from low/middle income countries; mentored in collaboration with the University of Birmingham, UK.
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
