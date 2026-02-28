@@ -62,16 +62,14 @@ Sergio Rincón, **Gabriel González**, Mario A. Macías, Pablo Arbeláez
 
 # 🎓 Theses
 - *M.Sc. Thesis,* Universidad de los Andes  
-  * Towards symmetric crystal structure prediction with flow matching equivariant transformers  
-  Advisor: [Pablo Arbeláez](https://scholar.google.com/citations?user=k0nZO90AAAAJ&hl=es) 
-  [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=-5kDAz4AAAAJ&citation_for_view=-5kDAz4AAAAJ:9yKSN-GCB0IC)
+  * Towards symmetric crystal structure prediction with flow matching equivariant transformers [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=-5kDAz4AAAAJ&citation_for_view=-5kDAz4AAAAJ:9yKSN-GCB0IC)
+  Advisor: [Pablo Arbeláez](https://scholar.google.com/citations?user=k0nZO90AAAAJ&hl=es)
 
 - *B.Sc. Thesis*, Universidad de los Andes 
-  * Robust-NeuroBiometrics: sistema robusto de identificación biométrica basado en señales de electroencefalograma (EEG)  
+  * Robust-NeuroBiometrics: sistema robusto de identificación biométrica basado en señales de electroencefalograma (EEG) [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=-5kDAz4AAAAJ&citation_for_view=-5kDAz4AAAAJ:u5HHmVD_uO8C) 
   Advisors: [Pablo Arbeláez](https://scholar.google.com/citations?user=k0nZO90AAAAJ&hl=es) [Fernando Lozano](https://academia.uniandes.edu.co/AcademyCv/flozano)  
-  [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=-5kDAz4AAAAJ&citation_for_view=-5kDAz4AAAAJ:u5HHmVD_uO8C)
 
-# 🔬 Research Experience
+# 🔬 Experience
 - *Research Assistant*, Universidad de los Andes
   * Research at the Biomedical Computer Vision Group at CinfonIA, advised by [Prof. Pablo Arbeláez](https://scholar.google.com/citations?user=k0nZO90AAAAJ&hl=es), focusing on multimodal and generative deep learning for drug discovery and materials design.
 - *External Researcher*, University of Birmingham
