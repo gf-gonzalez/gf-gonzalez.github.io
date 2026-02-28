@@ -35,9 +35,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 Sergio Rincón, **Gabriel González**, Mario A. Macías, Pablo Arbeláez
 
-[**Google Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=-5kDAz4AAAAJ&citation_for_view=-5kDAz4AAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='-5kDAz4AAAAJ:u-x6o8ySG0sC'></span></strong>
 [**Dataset**](https://www.scidb.cn/en/detail?dataSetId=91574142078b45c79d532d97b294ed44)
 [**Tutorial**](https://github.com/BCV-Uniandes/SIMPOD)
+[**Citations**](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=-5kDAz4AAAAJ&citation_for_view=-5kDAz4AAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='-5kDAz4AAAAJ:u-x6o8ySG0sC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
