@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a Machine Learning researcher and M.Sc. student in Biomedical Engineering at Universidad de los Andes (CinfonIA), advised by Prof. Pablo Arbeláez. My work focuses on multimodal and generative deep learning for scientific applications. I am currently working projects on reproducible models and benchmarks for AI in materials science, drug discovery, and multimodal brain decoding. I’ve published in venues such as NeurIPS 2025 and *Nature Scientific Data*, and I collaborate with interdisciplinary teams as a Research Assistant in the Biomedical Computer Vision Group. My research interest includes generative models and multimodal learning in science and healthcare applications.
+I'm a Machine Learning researcher and M.Sc. student in Biomedical Engineering at Universidad de los Andes (CinfonIA), advised by [Prof. Pablo Arbeláez](https://scholar.google.com/citations?user=k0nZO90AAAAJ&hl=es). My work focuses on multimodal and generative deep learning for scientific applications. I am currently working projects on reproducible models and benchmarks for AI in materials science, drug discovery, and multimodal brain decoding. I’ve published in venues such as NeurIPS 2025 and *Nature Scientific Data*, and I collaborate with interdisciplinary teams as a Research Assistant in the Biomedical Computer Vision Group. My research interest includes generative models and multimodal learning in science and healthcare applications.
 
 # 📝 Publications
 
