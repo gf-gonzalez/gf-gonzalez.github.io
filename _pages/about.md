@@ -56,7 +56,7 @@ Sergio Rincón, **Gabriel González**, Mario A. Macías, Pablo Arbeláez
 - *2025.10*, *RISE–MICCAI Mentorship Program*, Selected mentee in a one-year program supporting early career researchers from low/middle income countries; mentored in collaboration with the University of Birmingham, UK.
 
 # 📖 Education
-- *2024.08 - 2026.04 (now)*, Universidad de los Andes, M.Sc. Biomedical Engineering.
+- *2024.08 - 2026.04*, Universidad de los Andes, M.Sc. Biomedical Engineering.
 - *2021.01 - 2024.04*, Universidad de los Andes, B.Sc. Biomedical Engineering.
 - *2019.01 - 2024.10*, Universidad de los Andes, B.Sc. Electronics Engineering. 
 
