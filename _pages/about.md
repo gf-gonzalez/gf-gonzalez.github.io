@@ -21,6 +21,21 @@ I'm a Machine Learning researcher and M.Sc. in Biomedical Engineering at Univers
 
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div style="width:100%"><div class="badge">NeurIPS 2026</div><iframe src="https://bcv-uniandes.github.io/OPAL-WP/assets/header.html" title="How OPAL-Bench evaluates a crystal structure prediction" loading="lazy"></iframe></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Quantitative Assessment of Crystal Structure Prediction](https://bcv-uniandes.github.io/OPAL-WP/OPAL-Bench.pdf)
+
+Sergio Rincón\*, **Gabriel González**\*, Nicolás Andrade, Rafael Velásquez, Sebastián Ojeda, Juanita Puentes, Nicolás Aparicio, Paula Cárdenas, Pablo Arbeláez (\* equal contribution)
+
+[**Project Page**](https://bcv-uniandes.github.io/OPAL-WP/)
+[**Paper**](https://bcv-uniandes.github.io/OPAL-WP/OPAL-Bench.pdf)
+[**Code**](https://github.com/BCV-Uniandes/OPAL)
+- Introduced **OPAL-Bench**, an orientation-invariant, polymorph-aware benchmark for **crystal structure prediction (CSP)**: predictions are aligned to all known polymorphs and scored with threshold-free geometric and physical metrics.
+- Proposed the **OPAL-CSP** baseline, which performs well on both geometric and physical metrics.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/architectureFigureEscape.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
