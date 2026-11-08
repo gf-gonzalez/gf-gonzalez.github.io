@@ -19,7 +19,7 @@ redirect_from:
 
 I'm a machine learning researcher with an M.Sc. in Biomedical Engineering from Universidad de los Andes (CinfonIA), advised by [Prof. Pablo Arbeláez](https://scholar.google.com/citations?user=k0nZO90AAAAJ&hl=es). My work focuses on multimodal and generative deep learning for scientific applications. I am currently working on projects on reproducible models and benchmarks for AI in materials science, drug discovery, and biomedical data. I've published in venues such as NeurIPS and *Scientific Data*, and I collaborate with interdisciplinary teams as a Research Assistant in the Biomedical Computer Vision Group. My research interests include generative models and multimodal learning for science and healthcare.
 
-# 📝 Publications
+# 📝 Publications <a href='https://scholar.google.com/citations?user=-5kDAz4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 <div class='paper-box'><div class='paper-box-image'><div style="width:100%"><div class="badge">NeurIPS 2026 E & D</div><div class="paper-box-anim" data-anim="https://bcv-uniandes.github.io/OPAL-WP/assets/header.html"><img src='images/opal-bench.png' alt="OPAL-Bench overview"><iframe title="How OPAL-Bench evaluates a crystal structure prediction"></iframe></div></div></div>
 <div class='paper-box-text' markdown="1">
