@@ -72,7 +72,7 @@ Sebastian Ojeda, Rafael Velasquez, Nicolás Aparicio, Juanita Puentes, Paula Cá
 
 [**Dataset**](https://doi.org/10.7910/DVN/C69MCD)
 [**Code**](https://github.com/BCV-Uniandes/ESCAPE)
-[**Google Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=-5kDAz4AAAAJ&citation_for_view=-5kDAz4AAAAJ:d1gkVwhDpl0C) <img class='cite-badge' src="{{ citeBadge }}d1gkVwhDpl0C%27%5D.num_citations" alt="citations">
+[**Google Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=-5kDAz4AAAAJ&citation_for_view=-5kDAz4AAAAJ:d1gkVwhDpl0C)
 - Built a **comprehensive benchmark** for **multilabel antimicrobial peptide (AMP) classification**, under a unified set of antimicrobial categories.
 - Implemented a new **SOTA baseline** for AMP discovery employing transformers modules for sequence and 3D structure processing.
 </div>
@@ -87,7 +87,7 @@ Sergio Rincón, **Gabriel González**, Mario A. Macías, Pablo Arbeláez
 
 [**Dataset**](https://www.scidb.cn/en/detail?dataSetId=91574142078b45c79d532d97b294ed44)
 [**Code**](https://github.com/BCV-Uniandes/SIMPOD)
-[**Google Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=-5kDAz4AAAAJ&citation_for_view=-5kDAz4AAAAJ:u-x6o8ySG0sC) <img class='cite-badge' src="{{ citeBadge }}u-x6o8ySG0sC%27%5D.num_citations" alt="citations">
+[**Google Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=-5kDAz4AAAAJ&citation_for_view=-5kDAz4AAAAJ:u-x6o8ySG0sC)
 - Curated **SIMPOD** dataset of simulated powder XRD patterns from **467,861** crystal structures (COD), with 1D diffractograms and radial 2D representations.  
 - Created an **open source pipeline** for benchmarking Machine Learning and Computer Vision models for Space Group Prediction.
 </div>
