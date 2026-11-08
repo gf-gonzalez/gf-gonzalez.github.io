@@ -1,9 +1,9 @@
 name: Get Citation Data
 
-on: 
- page_build: 
- schedule:
-  - cron:  '0 8 * * *'
+# Manual only: Google Scholar blocks GitHub's servers, so the scheduled runs always failed.
+# Citations are updated from a local machine with google_scholar_crawler/update_citations.ps1.
+on:
+ workflow_dispatch:
 
 permissions:
   contents: write
