@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a Machine Learning researcher and M.Sc. in Biomedical Engineering at Universidad de los Andes (CinfonIA), advised by [Prof. Pablo Arbeláez](https://scholar.google.com/citations?user=k0nZO90AAAAJ&hl=es). My work focuses on multimodal and generative deep learning for scientific applications. I am currently working projects on reproducible models and benchmarks for AI in materials science, drug discovery, and biomedical data. I’ve published in venues such as NeurIPS 2025 and *Nature Scientific Data*, and I collaborate with interdisciplinary teams as a Research Assistant in the Biomedical Computer Vision Group. My research interest includes generative models and multimodal learning in science and healthcare applications.
+I'm a machine learning researcher with an M.Sc. in Biomedical Engineering from Universidad de los Andes (CinfonIA), advised by [Prof. Pablo Arbeláez](https://scholar.google.com/citations?user=k0nZO90AAAAJ&hl=es). My work focuses on multimodal and generative deep learning for scientific applications. I am currently working on projects on reproducible models and benchmarks for AI in materials science, drug discovery, and biomedical data. I've published in venues such as NeurIPS and *Scientific Data*, and I collaborate with interdisciplinary teams as a Research Assistant in the Biomedical Computer Vision Group. My research interests include generative models and multimodal learning for science and healthcare.
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div style="width:100%"><div class="badge">NeurIPS 2026</div><div class="paper-box-anim" data-anim="https://bcv-uniandes.github.io/OPAL-WP/assets/header.html"><img src='images/opal-bench.png' alt="OPAL-Bench overview"><iframe title="How OPAL-Bench evaluates a crystal structure prediction"></iframe></div></div></div>
+<div class='paper-box'><div class='paper-box-image'><div style="width:100%"><div class="badge">NeurIPS 2026 E & D</div><div class="paper-box-anim" data-anim="https://bcv-uniandes.github.io/OPAL-WP/assets/header.html"><img src='images/opal-bench.png' alt="OPAL-Bench overview"><iframe title="How OPAL-Bench evaluates a crystal structure prediction"></iframe></div></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Quantitative Assessment of Crystal Structure Prediction](https://bcv-uniandes.github.io/OPAL-WP/OPAL-Bench.pdf)
@@ -61,7 +61,7 @@ document.querySelectorAll('.paper-box-anim').forEach(function (box) {
 });
 </script>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/architectureFigureEscape.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 D & B</div><img src='images/architectureFigureEscape.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Standardized Benchmark for Multilabel Antimicrobial Peptide Classification](https://arxiv.org/pdf/2511.04814)
