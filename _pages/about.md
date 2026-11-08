@@ -21,7 +21,7 @@ I'm a Machine Learning researcher and M.Sc. in Biomedical Engineering at Univers
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div style="width:100%"><div class="badge">NeurIPS 2026</div><div class="paper-box-anim"><iframe src="https://bcv-uniandes.github.io/OPAL-WP/assets/header.html" title="How OPAL-Bench evaluates a crystal structure prediction" loading="lazy"></iframe></div></div></div>
+<div class='paper-box'><div class='paper-box-image'><div style="width:100%"><div class="badge">NeurIPS 2026</div><div class="paper-box-anim" data-anim="https://bcv-uniandes.github.io/OPAL-WP/assets/header.html"><img src='images/opal-bench.png' alt="OPAL-Bench overview"><iframe title="How OPAL-Bench evaluates a crystal structure prediction"></iframe></div></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Quantitative Assessment of Crystal Structure Prediction](https://bcv-uniandes.github.io/OPAL-WP/OPAL-Bench.pdf)
@@ -35,6 +35,31 @@ Sergio Rincón\*, **Gabriel González**\*, Nicolás Andrade, Rafael Velásquez, 
 - Proposed the **OPAL-CSP** baseline, which performs well on both geometric and physical metrics.
 </div>
 </div>
+
+<script>
+// figures with a live animation: show the static image, play the animation on hover (tap on touch screens)
+document.querySelectorAll('.paper-box-anim').forEach(function (box) {
+  var frame = box.querySelector('iframe'), timer;
+  function play() {
+    clearTimeout(timer);
+    if (box.classList.contains('playing')) return;
+    frame.onload = function () { box.classList.add('playing'); };
+    frame.src = box.dataset.anim;
+  }
+  function stop() {
+    box.classList.remove('playing');
+    frame.onload = null;
+    timer = setTimeout(function () { frame.src = 'about:blank'; }, 300);
+  }
+  var mouse = false;
+  box.addEventListener('pointerenter', function (e) { mouse = e.pointerType === 'mouse'; if (mouse) play(); });
+  box.addEventListener('pointerleave', function (e) { if (e.pointerType === 'mouse') stop(); });
+  box.addEventListener('click', function () {
+    if (mouse) return; // a mouse already plays on hover
+    box.classList.contains('playing') ? stop() : play();
+  });
+});
+</script>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/architectureFigureEscape.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
