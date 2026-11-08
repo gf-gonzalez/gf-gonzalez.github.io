@@ -31,8 +31,8 @@ I'm a machine learning researcher with an M.Sc. in Biomedical Engineering from U
 Sergio Rincón\*, **Gabriel González**\*, Nicolás Andrade, Rafael Velásquez, Sebastián Ojeda, Juanita Puentes, Nicolás Aparicio, Paula Cárdenas, Pablo Arbeláez (\* equal contribution)
 
 [**Project Page**](https://bcv-uniandes.github.io/OPAL-WP/)
-[**Paper**](https://bcv-uniandes.github.io/OPAL-WP/OPAL-Bench.pdf)
 [**Code**](https://github.com/BCV-Uniandes/OPAL)
+[**Paper**](https://bcv-uniandes.github.io/OPAL-WP/OPAL-Bench.pdf)
 - Introduced **OPAL-Bench**, an orientation-invariant, polymorph-aware large benchmark for **crystal structure prediction (CSP)**.
 - Developed **OPAL-CSP**, a top-ranking generative model that predicts crystal structures both **geometrically accurate and physically plausible**.
 </div>
