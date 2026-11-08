@@ -21,7 +21,7 @@ I'm a Machine Learning researcher and M.Sc. in Biomedical Engineering at Univers
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div style="width:100%"><div class="badge">NeurIPS 2026</div><iframe src="https://bcv-uniandes.github.io/OPAL-WP/assets/header.html" title="How OPAL-Bench evaluates a crystal structure prediction" loading="lazy"></iframe></div></div>
+<div class='paper-box'><div class='paper-box-image'><div style="width:100%"><div class="badge">NeurIPS 2026</div><div class="paper-box-anim"><iframe src="https://bcv-uniandes.github.io/OPAL-WP/assets/header.html" title="How OPAL-Bench evaluates a crystal structure prediction" loading="lazy"></iframe></div></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Quantitative Assessment of Crystal Structure Prediction](https://bcv-uniandes.github.io/OPAL-WP/OPAL-Bench.pdf)
