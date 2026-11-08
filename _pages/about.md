@@ -14,6 +14,8 @@ redirect_from:
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+{% assign gsDataUrl = gsDataBaseUrl | append: "google-scholar-stats/gs_data.json" | url_encode %}
+{% capture citeBadge %}https://img.shields.io/badge/dynamic/json?url={{ gsDataUrl }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations&query=%24.publications%5B%27-5kDAz4AAAAJ%3A{% endcapture %}
 
 <span class='anchor' id='about-me'></span>
 
@@ -70,7 +72,7 @@ Sebastian Ojeda, Rafael Velasquez, Nicolás Aparicio, Juanita Puentes, Paula Cá
 
 [**Dataset**](https://doi.org/10.7910/DVN/C69MCD)
 [**Code**](https://github.com/BCV-Uniandes/ESCAPE)
-[**Google Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=-5kDAz4AAAAJ&citation_for_view=-5kDAz4AAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='-5kDAz4AAAAJ:d1gkVwhDpl0C'></span></strong>
+[**Google Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=-5kDAz4AAAAJ&citation_for_view=-5kDAz4AAAAJ:d1gkVwhDpl0C) <img class='cite-badge' src="{{ citeBadge }}d1gkVwhDpl0C%27%5D.num_citations" alt="citations">
 - Built a **comprehensive benchmark** for **multilabel antimicrobial peptide (AMP) classification**, under a unified set of antimicrobial categories.
 - Implemented a new **SOTA baseline** for AMP discovery employing transformers modules for sequence and 3D structure processing.
 </div>
@@ -85,7 +87,7 @@ Sergio Rincón, **Gabriel González**, Mario A. Macías, Pablo Arbeláez
 
 [**Dataset**](https://www.scidb.cn/en/detail?dataSetId=91574142078b45c79d532d97b294ed44)
 [**Code**](https://github.com/BCV-Uniandes/SIMPOD)
-[**Google Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=-5kDAz4AAAAJ&citation_for_view=-5kDAz4AAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='-5kDAz4AAAAJ:u-x6o8ySG0sC'></span></strong>
+[**Google Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=-5kDAz4AAAAJ&citation_for_view=-5kDAz4AAAAJ:u-x6o8ySG0sC) <img class='cite-badge' src="{{ citeBadge }}u-x6o8ySG0sC%27%5D.num_citations" alt="citations">
 - Curated **SIMPOD** dataset of simulated powder XRD patterns from **467,861** crystal structures (COD), with 1D diffractograms and radial 2D representations.  
 - Created an **open source pipeline** for benchmarking Machine Learning and Computer Vision models for Space Group Prediction.
 </div>

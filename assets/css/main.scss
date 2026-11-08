@@ -47,7 +47,7 @@
     flex-direction: row;
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
+    padding: 1.2em 0 1.2em 0;
     
 
     .paper-box-image{
@@ -104,6 +104,13 @@
     .paper-box-text{
         max-width: 100%;
         order: 1;
+        // no extra space above the title or below the last bullet
+        > :first-child { margin-top: 0; }
+        > :last-child { margin-bottom: 0; }
+        .cite-badge {
+            vertical-align: middle;
+            margin-left: .3em;
+        }
     }
     
     @include breakpoint($medium) {
