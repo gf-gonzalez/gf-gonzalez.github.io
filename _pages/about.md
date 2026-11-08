@@ -31,8 +31,8 @@ Sergio Rincón\*, **Gabriel González**\*, Nicolás Andrade, Rafael Velásquez, 
 [**Project Page**](https://bcv-uniandes.github.io/OPAL-WP/)
 [**Paper**](https://bcv-uniandes.github.io/OPAL-WP/OPAL-Bench.pdf)
 [**Code**](https://github.com/BCV-Uniandes/OPAL)
-- Introduced **OPAL-Bench**, an orientation-invariant, polymorph-aware benchmark for **crystal structure prediction (CSP)**: predictions are aligned to all known polymorphs and scored with threshold-free geometric and physical metrics.
-- Proposed the **OPAL-CSP** baseline, which performs well on both geometric and physical metrics.
+- Introduced **OPAL-Bench**, an orientation-invariant, polymorph-aware large benchmark for **crystal structure prediction (CSP)**.
+- Developed **OPAL-CSP**, a top-ranking generative model that predicts crystal structures both **geometrically accurate and physically plausible**.
 </div>
 </div>
 
