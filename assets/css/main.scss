@@ -107,9 +107,13 @@
         // no extra space above the title or below the last bullet
         > :first-child { margin-top: 0; }
         > :last-child { margin-bottom: 0; }
-        .cite-badge {
-            vertical-align: middle;
-            margin-left: .3em;
+        // row of link badges (paper, code, poster, web)
+        .pub-badges {
+            display: flex;
+            flex-wrap: wrap;
+            gap: .35em;
+            margin: .4em 0;
+            a, img { display: block; }
         }
     }
     
