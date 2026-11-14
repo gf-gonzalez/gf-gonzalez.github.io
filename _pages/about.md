@@ -29,10 +29,10 @@ I'm a machine learning researcher with an M.Sc. in Biomedical Engineering from U
 [Quantitative Assessment of Crystal Structure Prediction](https://arxiv.org/abs/2611.10380)
 
 <p class="pub-badges">
-<a href="https://arxiv.org/abs/2611.10380"><img src="https://img.shields.io/badge/arXiv-2611.10380-f4c7c3?style=flat&labelColor=f6f6f6&logo=arxiv&logoColor=555555" alt="arXiv"></a>
-<a href="https://github.com/BCV-Uniandes/OPAL"><img src="https://img.shields.io/badge/Code-GitHub-dcdcdc?style=flat&labelColor=f6f6f6&logo=github&logoColor=555555" alt="Code"></a>
-<a href="https://neurips.cc/virtual/2026/loc/sydney/poster/138999"><img src="https://img.shields.io/badge/Poster-NeurIPS%202026-ddd0f2?style=flat&labelColor=f6f6f6" alt="Poster"></a>
-<a href="https://bcv-uniandes.github.io/OPAL-WP/"><img src="https://img.shields.io/badge/Web-Project%20Page-c8e8d0?style=flat&labelColor=f6f6f6&logo=googlechrome&logoColor=555555" alt="Project page"></a>
+<a href="https://arxiv.org/abs/2611.10380"><img src="https://img.shields.io/badge/arXiv-2611.10380-e8958d?style=flat&labelColor=f6f6f6&logo=arxiv&logoColor=555555" alt="arXiv"></a>
+<a href="https://github.com/BCV-Uniandes/OPAL"><img src="https://img.shields.io/badge/Code-GitHub-b4b4b4?style=flat&labelColor=f6f6f6&logo=github&logoColor=555555" alt="Code"></a>
+<a href="https://neurips.cc/virtual/2026/loc/sydney/poster/138999"><img src="https://img.shields.io/badge/Poster-NeurIPS%202026-bba3e2?style=flat&labelColor=f6f6f6" alt="Poster"></a>
+<a href="https://bcv-uniandes.github.io/OPAL-WP/"><img src="https://img.shields.io/badge/Web-Project%20Page-90d0a2?style=flat&labelColor=f6f6f6&logo=googlechrome&logoColor=555555" alt="Project page"></a>
 </p>
 
 Sergio Rincón\*, **Gabriel González**\*, Nicolás Andrade, Rafael Velásquez, Sebastián Ojeda, Juanita Puentes, Nicolás Aparicio, Paula Cárdenas, Pablo Arbeláez (\* equal contribution)
@@ -73,10 +73,10 @@ document.querySelectorAll('.paper-box-anim').forEach(function (box) {
 [A Standardized Benchmark for Multilabel Antimicrobial Peptide Classification](https://arxiv.org/pdf/2511.04814)
 
 <p class="pub-badges">
-<a href="https://doi.org/10.52202/085713-4303"><img src="https://img.shields.io/badge/DOI-10.52202%2F085713--4303-c6dbf7?style=flat&labelColor=f6f6f6&logo=doi&logoColor=555555" alt="DOI"></a>
-<a href="https://github.com/BCV-Uniandes/ESCAPE"><img src="https://img.shields.io/badge/Code-GitHub-dcdcdc?style=flat&labelColor=f6f6f6&logo=github&logoColor=555555" alt="Code"></a>
-<a href="https://doi.org/10.7910/DVN/C69MCD"><img src="https://img.shields.io/badge/Dataset-Harvard%20Dataverse-fbe0bd?style=flat&labelColor=f6f6f6" alt="Dataset"></a>
-<a href="https://neurips.cc/virtual/2025/loc/san-diego/poster/121531"><img src="https://img.shields.io/badge/Poster-NeurIPS%202025-ddd0f2?style=flat&labelColor=f6f6f6" alt="Poster"></a>
+<a href="https://doi.org/10.52202/085713-4303"><img src="https://img.shields.io/badge/DOI-10.52202%2F085713--4303-92b6ec?style=flat&labelColor=f6f6f6&logo=doi&logoColor=555555" alt="DOI"></a>
+<a href="https://github.com/BCV-Uniandes/ESCAPE"><img src="https://img.shields.io/badge/Code-GitHub-b4b4b4?style=flat&labelColor=f6f6f6&logo=github&logoColor=555555" alt="Code"></a>
+<a href="https://doi.org/10.7910/DVN/C69MCD"><img src="https://img.shields.io/badge/Dataset-Harvard%20Dataverse-f2bc78?style=flat&labelColor=f6f6f6" alt="Dataset"></a>
+<a href="https://neurips.cc/virtual/2025/loc/san-diego/poster/121531"><img src="https://img.shields.io/badge/Poster-NeurIPS%202025-bba3e2?style=flat&labelColor=f6f6f6" alt="Poster"></a>
 </p>
 
 Sebastian Ojeda, Rafael Velasquez, Nicolás Aparicio, Juanita Puentes, Paula Cárdenas, Nicolás Andrade, **Gabriel González**, Sergio Rincón, Carolina Muñoz-Camargo, Pablo Arbeláez
@@ -92,9 +92,9 @@ Sebastian Ojeda, Rafael Velasquez, Nicolás Aparicio, Juanita Puentes, Paula Cá
 [A new benchmark for machine learning applied to powder X-ray diffraction](https://www.nature.com/articles/s41597-025-05534-3)
 
 <p class="pub-badges">
-<a href="https://doi.org/10.1038/s41597-025-05534-3"><img src="https://img.shields.io/badge/DOI-10.1038%2Fs41597--025--05534--3-c6dbf7?style=flat&labelColor=f6f6f6&logo=doi&logoColor=555555" alt="DOI"></a>
-<a href="https://github.com/BCV-Uniandes/SIMPOD"><img src="https://img.shields.io/badge/Code-GitHub-dcdcdc?style=flat&labelColor=f6f6f6&logo=github&logoColor=555555" alt="Code"></a>
-<a href="https://www.scidb.cn/en/detail?dataSetId=91574142078b45c79d532d97b294ed44"><img src="https://img.shields.io/badge/Dataset-ScienceDB-fbe0bd?style=flat&labelColor=f6f6f6" alt="Dataset"></a>
+<a href="https://doi.org/10.1038/s41597-025-05534-3"><img src="https://img.shields.io/badge/DOI-10.1038%2Fs41597--025--05534--3-92b6ec?style=flat&labelColor=f6f6f6&logo=doi&logoColor=555555" alt="DOI"></a>
+<a href="https://github.com/BCV-Uniandes/SIMPOD"><img src="https://img.shields.io/badge/Code-GitHub-b4b4b4?style=flat&labelColor=f6f6f6&logo=github&logoColor=555555" alt="Code"></a>
+<a href="https://www.scidb.cn/en/detail?dataSetId=91574142078b45c79d532d97b294ed44"><img src="https://img.shields.io/badge/Dataset-ScienceDB-f2bc78?style=flat&labelColor=f6f6f6" alt="Dataset"></a>
 </p>
 
 Sergio Rincón, **Gabriel González**, Mario A. Macías, Pablo Arbeláez
