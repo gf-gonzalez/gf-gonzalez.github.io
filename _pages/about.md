@@ -28,14 +28,15 @@ I'm a machine learning researcher with an M.Sc. in Biomedical Engineering from U
 
 [Quantitative Assessment of Crystal Structure Prediction](https://bcv-uniandes.github.io/OPAL-WP/OPAL-Bench.pdf)
 
-Sergio Rincón\*, **Gabriel González**\*, Nicolás Andrade, Rafael Velásquez, Sebastián Ojeda, Juanita Puentes, Nicolás Aparicio, Paula Cárdenas, Pablo Arbeláez (\* equal contribution)
-
 <p class="pub-badges">
 <a href="https://arxiv.org/abs/2611.10380"><img src="https://img.shields.io/badge/arXiv-2611.10380-b31b1b?style=flat&logo=arxiv&logoColor=white" alt="arXiv"></a>
 <a href="https://github.com/BCV-Uniandes/OPAL"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code"></a>
 <a href="https://neurips.cc/virtual/2026/loc/sydney/poster/138999"><img src="https://img.shields.io/badge/Poster-NeurIPS%202026-7b2cbf?style=flat" alt="Poster"></a>
 <a href="https://bcv-uniandes.github.io/OPAL-WP/"><img src="https://img.shields.io/badge/Web-Project%20Page-2e8b57?style=flat&logo=googlechrome&logoColor=white" alt="Project page"></a>
 </p>
+
+Sergio Rincón\*, **Gabriel González**\*, Nicolás Andrade, Rafael Velásquez, Sebastián Ojeda, Juanita Puentes, Nicolás Aparicio, Paula Cárdenas, Pablo Arbeláez (\* equal contribution)
+
 - Introduced **OPAL-Bench**, an orientation-invariant, polymorph-aware large benchmark for **crystal structure prediction (CSP)**.
 - Developed **OPAL-CSP**, a top-ranking generative model that predicts crystal structures both **geometrically accurate and physically plausible**.
 </div>
@@ -71,13 +72,14 @@ document.querySelectorAll('.paper-box-anim').forEach(function (box) {
 
 [A Standardized Benchmark for Multilabel Antimicrobial Peptide Classification](https://arxiv.org/pdf/2511.04814)
 
-Sebastian Ojeda, Rafael Velasquez, Nicolás Aparicio, Juanita Puentes, Paula Cárdenas, Nicolás Andrade, **Gabriel González**, Sergio Rincón, Carolina Muñoz-Camargo, Pablo Arbeláez
-
 <p class="pub-badges">
 <a href="https://doi.org/10.52202/085713-4303"><img src="https://img.shields.io/badge/DOI-10.52202%2F085713--4303-1f6feb?style=flat&logo=doi&logoColor=white" alt="DOI"></a>
 <a href="https://github.com/BCV-Uniandes/ESCAPE"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code"></a>
 <a href="https://neurips.cc/virtual/2025/loc/san-diego/poster/121531"><img src="https://img.shields.io/badge/Poster-NeurIPS%202025-7b2cbf?style=flat" alt="Poster"></a>
 </p>
+
+Sebastian Ojeda, Rafael Velasquez, Nicolás Aparicio, Juanita Puentes, Paula Cárdenas, Nicolás Andrade, **Gabriel González**, Sergio Rincón, Carolina Muñoz-Camargo, Pablo Arbeláez
+
 - Built a **comprehensive benchmark** for **multilabel antimicrobial peptide (AMP) classification**, under a unified set of antimicrobial categories.
 - Implemented a new **SOTA baseline** for AMP discovery employing transformers modules for sequence and 3D structure processing.
 </div>
@@ -88,12 +90,13 @@ Sebastian Ojeda, Rafael Velasquez, Nicolás Aparicio, Juanita Puentes, Paula Cá
 
 [A new benchmark for machine learning applied to powder X-ray diffraction](https://www.nature.com/articles/s41597-025-05534-3)
 
-Sergio Rincón, **Gabriel González**, Mario A. Macías, Pablo Arbeláez
-
 <p class="pub-badges">
 <a href="https://doi.org/10.1038/s41597-025-05534-3"><img src="https://img.shields.io/badge/DOI-10.1038%2Fs41597--025--05534--3-1f6feb?style=flat&logo=doi&logoColor=white" alt="DOI"></a>
 <a href="https://github.com/BCV-Uniandes/SIMPOD"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code"></a>
 </p>
+
+Sergio Rincón, **Gabriel González**, Mario A. Macías, Pablo Arbeláez
+
 - Curated **SIMPOD** dataset of simulated powder XRD patterns from **467,861** crystal structures (COD), with 1D diffractograms and radial 2D representations.  
 - Created an **open source pipeline** for benchmarking Machine Learning and Computer Vision models for Space Group Prediction.
 </div>

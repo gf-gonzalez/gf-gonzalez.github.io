@@ -111,9 +111,11 @@
         .pub-badges {
             display: flex;
             flex-wrap: wrap;
-            gap: .35em;
+            align-items: center;
+            gap: .3em;
             margin: .4em 0;
-            a, img { display: block; }
+            a { display: block; line-height: 0; }
+            img { display: block; height: 15px; width: auto; }
         }
     }
     

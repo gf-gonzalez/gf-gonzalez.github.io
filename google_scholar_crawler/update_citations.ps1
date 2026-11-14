@@ -53,4 +53,12 @@ try {
     Pop-Location
     if (Test-Path $gitDir) { Remove-Item -Recurse -Force $gitDir }
 }
-Write-Host 'Done. The badge updates within a few minutes (jsDelivr may take up to a day).'
+
+# 4. Clear jsDelivr's cache of the files, otherwise the site can keep showing
+#    the old numbers for up to a day
+$cdnPath = 'gf-gonzalez/gf-gonzalez.github.io@google-scholar-stats'
+foreach ($f in 'gs_data.json', 'gs_data_shieldsio.json') {
+    try { Invoke-WebRequest -UseBasicParsing "https://purge.jsdelivr.net/gh/$cdnPath/$f" | Out-Null }
+    catch { Write-Warning "Could not clear the jsDelivr cache for $f; the badge may update late." }
+}
+Write-Host 'Done. The badges update within about 5 minutes (refresh the page to see them).'
