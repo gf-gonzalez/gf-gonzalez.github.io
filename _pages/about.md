@@ -18,7 +18,7 @@ redirect_from:
 {% capture citeBadge %}https://img.shields.io/badge/dynamic/json?url={{ gsDataUrl }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations&query=%24.publications%5B%27-5kDAz4AAAAJ%3A{% endcapture %}
 
 <span class='anchor' id='about-me'></span>
-
+Should
 I'm a machine learning researcher with an M.Sc. in Biomedical Engineering from Universidad de los Andes (CinfonIA), advised by [Prof. Pablo Arbeláez](https://scholar.google.com/citations?user=k0nZO90AAAAJ&hl=es). My work focuses on multimodal and generative deep learning for scientific applications. I am currently working on projects on reproducible models and benchmarks for AI in materials science, drug discovery, and biomedical data. I've published in venues such as NeurIPS and *Scientific Data*, and I collaborate with interdisciplinary teams as a Research Assistant in the Biomedical Computer Vision Group. My research interests include generative models and multimodal learning for science and healthcare.
 
 # 📝 Publications <a href='https://scholar.google.com/citations?user=-5kDAz4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
@@ -29,10 +29,10 @@ I'm a machine learning researcher with an M.Sc. in Biomedical Engineering from U
 [Quantitative Assessment of Crystal Structure Prediction](https://arxiv.org/abs/2611.10380)
 
 <p class="pub-badges">
-<a href="https://arxiv.org/abs/2611.10380"><img src="https://img.shields.io/badge/arXiv-2611.10380-b31b1b?style=flat&logo=arxiv&logoColor=white" alt="arXiv"></a>
-<a href="https://github.com/BCV-Uniandes/OPAL"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code"></a>
-<a href="https://neurips.cc/virtual/2026/loc/sydney/poster/138999"><img src="https://img.shields.io/badge/Poster-NeurIPS%202026-7b2cbf?style=flat" alt="Poster"></a>
-<a href="https://bcv-uniandes.github.io/OPAL-WP/"><img src="https://img.shields.io/badge/Web-Project%20Page-2e8b57?style=flat&logo=googlechrome&logoColor=white" alt="Project page"></a>
+<a href="https://arxiv.org/abs/2611.10380"><img src="https://img.shields.io/badge/arXiv-2611.10380-f4c7c3?style=flat&labelColor=f6f6f6&logo=arxiv&logoColor=555555" alt="arXiv"></a>
+<a href="https://github.com/BCV-Uniandes/OPAL"><img src="https://img.shields.io/badge/Code-GitHub-dcdcdc?style=flat&labelColor=f6f6f6&logo=github&logoColor=555555" alt="Code"></a>
+<a href="https://neurips.cc/virtual/2026/loc/sydney/poster/138999"><img src="https://img.shields.io/badge/Poster-NeurIPS%202026-ddd0f2?style=flat&labelColor=f6f6f6" alt="Poster"></a>
+<a href="https://bcv-uniandes.github.io/OPAL-WP/"><img src="https://img.shields.io/badge/Web-Project%20Page-c8e8d0?style=flat&labelColor=f6f6f6&logo=googlechrome&logoColor=555555" alt="Project page"></a>
 </p>
 
 Sergio Rincón\*, **Gabriel González**\*, Nicolás Andrade, Rafael Velásquez, Sebastián Ojeda, Juanita Puentes, Nicolás Aparicio, Paula Cárdenas, Pablo Arbeláez (\* equal contribution)
@@ -73,9 +73,10 @@ document.querySelectorAll('.paper-box-anim').forEach(function (box) {
 [A Standardized Benchmark for Multilabel Antimicrobial Peptide Classification](https://arxiv.org/pdf/2511.04814)
 
 <p class="pub-badges">
-<a href="https://doi.org/10.52202/085713-4303"><img src="https://img.shields.io/badge/DOI-10.52202%2F085713--4303-1f6feb?style=flat&logo=doi&logoColor=white" alt="DOI"></a>
-<a href="https://github.com/BCV-Uniandes/ESCAPE"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code"></a>
-<a href="https://neurips.cc/virtual/2025/loc/san-diego/poster/121531"><img src="https://img.shields.io/badge/Poster-NeurIPS%202025-7b2cbf?style=flat" alt="Poster"></a>
+<a href="https://doi.org/10.52202/085713-4303"><img src="https://img.shields.io/badge/DOI-10.52202%2F085713--4303-c6dbf7?style=flat&labelColor=f6f6f6&logo=doi&logoColor=555555" alt="DOI"></a>
+<a href="https://github.com/BCV-Uniandes/ESCAPE"><img src="https://img.shields.io/badge/Code-GitHub-dcdcdc?style=flat&labelColor=f6f6f6&logo=github&logoColor=555555" alt="Code"></a>
+<a href="https://doi.org/10.7910/DVN/C69MCD"><img src="https://img.shields.io/badge/Dataset-Harvard%20Dataverse-fbe0bd?style=flat&labelColor=f6f6f6" alt="Dataset"></a>
+<a href="https://neurips.cc/virtual/2025/loc/san-diego/poster/121531"><img src="https://img.shields.io/badge/Poster-NeurIPS%202025-ddd0f2?style=flat&labelColor=f6f6f6" alt="Poster"></a>
 </p>
 
 Sebastian Ojeda, Rafael Velasquez, Nicolás Aparicio, Juanita Puentes, Paula Cárdenas, Nicolás Andrade, **Gabriel González**, Sergio Rincón, Carolina Muñoz-Camargo, Pablo Arbeláez
@@ -91,8 +92,9 @@ Sebastian Ojeda, Rafael Velasquez, Nicolás Aparicio, Juanita Puentes, Paula Cá
 [A new benchmark for machine learning applied to powder X-ray diffraction](https://www.nature.com/articles/s41597-025-05534-3)
 
 <p class="pub-badges">
-<a href="https://doi.org/10.1038/s41597-025-05534-3"><img src="https://img.shields.io/badge/DOI-10.1038%2Fs41597--025--05534--3-1f6feb?style=flat&logo=doi&logoColor=white" alt="DOI"></a>
-<a href="https://github.com/BCV-Uniandes/SIMPOD"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code"></a>
+<a href="https://doi.org/10.1038/s41597-025-05534-3"><img src="https://img.shields.io/badge/DOI-10.1038%2Fs41597--025--05534--3-c6dbf7?style=flat&labelColor=f6f6f6&logo=doi&logoColor=555555" alt="DOI"></a>
+<a href="https://github.com/BCV-Uniandes/SIMPOD"><img src="https://img.shields.io/badge/Code-GitHub-dcdcdc?style=flat&labelColor=f6f6f6&logo=github&logoColor=555555" alt="Code"></a>
+<a href="https://www.scidb.cn/en/detail?dataSetId=91574142078b45c79d532d97b294ed44"><img src="https://img.shields.io/badge/Dataset-ScienceDB-fbe0bd?style=flat&labelColor=f6f6f6" alt="Dataset"></a>
 </p>
 
 Sergio Rincón, **Gabriel González**, Mario A. Macías, Pablo Arbeláez
