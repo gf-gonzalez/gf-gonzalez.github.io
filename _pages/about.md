@@ -26,7 +26,7 @@ I'm a machine learning researcher with an M.Sc. in Biomedical Engineering from U
 <div class='paper-box'><div class='paper-box-image'><div style="width:100%"><div class="badge">NeurIPS 2026 E & D</div><div class="paper-box-anim" data-anim="https://bcv-uniandes.github.io/OPAL-WP/assets/header.html"><img src='images/opal-bench.png' alt="OPAL-Bench overview"><iframe title="How OPAL-Bench evaluates a crystal structure prediction"></iframe></div></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Quantitative Assessment of Crystal Structure Prediction](https://bcv-uniandes.github.io/OPAL-WP/OPAL-Bench.pdf)
+[Quantitative Assessment of Crystal Structure Prediction](https://arxiv.org/abs/2611.10380)
 
 <p class="pub-badges">
 <a href="https://arxiv.org/abs/2611.10380"><img src="https://img.shields.io/badge/arXiv-2611.10380-b31b1b?style=flat&logo=arxiv&logoColor=white" alt="arXiv"></a>
